@@ -69,3 +69,6 @@ Keesari Shiva Kumar
 📍 Student Project — Data Visualization using Power BI
 📧[www.linkedin.com/in/shiva-kumar-keesari-889427328]
 
+📜 License
+This project is intended for educational and professional portfolio purposes.
+You may use and adapt it with proper credit to the author.
